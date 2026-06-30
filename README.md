@@ -69,7 +69,3 @@ yulu-hypothesis-testing/
 pip install pandas numpy matplotlib seaborn scipy
 jupyter notebook Yulu_Hypothesis_Testing.ipynb
 ```
-
----
-
-*Part of the Scaler Data Science & Machine Learning curriculum.*
