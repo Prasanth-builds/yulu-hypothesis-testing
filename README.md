@@ -2,6 +2,8 @@
 
 A statistical case study identifying the key factors driving demand for shared electric cycles in the Indian market, using real-world hourly rental data.
 
+Collab link: https://colab.research.google.com/drive/1MEVTfR6Xt47l_qoxAR0R-_NisGYH1PEg#scrollTo=2336cfca
+
 📌 Problem Statement
 
 Yulu, India's leading micro-mobility provider, experienced a significant decline in revenue. This project analyzes 10,886 hourly rental records to answer four business-critical questions:
