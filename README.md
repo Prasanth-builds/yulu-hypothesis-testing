@@ -2,7 +2,7 @@
 
 A statistical case study identifying the key factors driving demand for shared electric cycles in the Indian market, using real-world hourly rental data.
 
-Collab link: https://colab.research.google.com/drive/1MEVTfR6Xt47l_qoxAR0R-_NisGYH1PEg#scrollTo=2336cfca
+Colab link: https://colab.research.google.com/drive/1MEVTfR6Xt47l_qoxAR0R-_NisGYH1PEg#scrollTo=2336cfca
 
 📌 Problem Statement
 
